@@ -1,0 +1,153 @@
+
+  [
+    {
+      "StuName": "Emma Johnson",
+      "StuID": "S001",
+      "StuCollege": "Engineering"
+    },
+    {
+      "StuName": "Michael Chen",
+      "StuID": "S002",
+      "StuCollege": "Business"
+    },
+    {
+      "StuName": "Sarah Williams",
+      "StuID": "S003",
+      "StuCollege": "Arts & Sciences"
+    },
+    {
+      "StuName": "David Kim",
+      "StuID": "S004",
+      "StuCollege": "Computer Science"
+    },
+    {
+      "StuName": "Jessica Martinez",
+      "StuID": "S005",
+      "StuCollege": "Medicine"
+    },
+    {
+      "StuName": "Christopher Brown",
+      "StuID": "S006",
+      "StuCollege": "Engineering"
+    },
+    {
+      "StuName": "Amanda Taylor",
+      "StuID": "S007",
+      "StuCollege": "Law"
+    },
+    {
+      "StuName": "Matthew Wilson",
+      "StuID": "S008",
+      "StuCollege": "Business"
+    },
+    {
+      "StuName": "Olivia Davis",
+      "StuID": "S009",
+      "StuCollege": "Computer Science"
+    },
+    {
+      "StuName": "Daniel Rodriguez",
+      "StuID": "S010",
+      "StuCollege": "Computer Science"
+    },
+    {
+      "StuName": "Sophia Anderson",
+      "StuID": "S011",
+      "StuCollege": "Computer Science"
+    },
+    {
+      "StuName": "James Lee",
+      "StuID": "S012",
+      "StuCollege": "Medicine"
+    },
+    {
+      "StuName": "Isabella Thomas",
+      "StuID": "S013",
+      "StuCollege": "Arts & Sciences"
+    },
+    {
+      "StuName": "Andrew Jackson",
+      "StuID": "S014",
+      "StuCollege": "Business"
+    },
+    {
+      "StuName": "Mia White",
+      "StuID": "S015",
+      "StuCollege": "Engineering"
+    },
+    {
+      "StuName": "Joshua Harris",
+      "StuID": "S016",
+      "StuCollege": "Computer Science"
+    },
+    {
+      "StuName": "Charlotte Martin",
+      "StuID": "S017",
+      "StuCollege": "Law"
+    },
+    {
+      "StuName": "Ethan Thompson",
+      "StuID": "S018",
+      "StuCollege": "Medicine"
+    },
+    {
+      "StuName": "Ava Garcia",
+      "StuID": "S019",
+      "StuCollege": "Computer Science"
+    },
+    {
+      "StuName": "Ryan Martinez",
+      "StuID": "S020",
+      "StuCollege": "Engineering"
+    },
+    {
+      "StuName": "Abigail Robinson",
+      "StuID": "S021",
+      "StuCollege": "Business"
+    },
+    {
+      "StuName": "Noah Clark",
+      "StuID": "S022",
+      "StuCollege": "Computer Science"
+    },
+    {
+      "StuName": "Emily Rodriguez",
+      "StuID": "S023",
+      "StuCollege": "Computer Science"
+    },
+    {
+      "StuName": "Logan Lewis",
+      "StuID": "S024",
+      "StuCollege": "Law"
+    },
+    {
+      "StuName": "Elizabeth Walker",
+      "StuID": "S025",
+      "StuCollege": "Arts & Sciences"
+    },
+    {
+      "StuName": "Jacob Hall",
+      "StuID": "S026",
+      "StuCollege": "Engineering"
+    },
+    {
+      "StuName": "Sofia Young",
+      "StuID": "S027",
+      "StuCollege": "Business"
+    },
+    {
+      "StuName": "Liam Allen",
+      "StuID": "S028",
+      "StuCollege": "Computer Science"
+    },
+    {
+      "StuName": "Chloe King",
+      "StuID": "S029",
+      "StuCollege": "Medicine"
+    },
+    {
+      "StuName": "Benjamin Scott",
+      "StuID": "S030",
+      "StuCollege": "Law"
+    }
+  ]
